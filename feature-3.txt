@@ -3,3 +3,5 @@ This is a feature added by developer 1
 This is a change added by develper 2
 
 Added safe changes
+
+This is a change added by developer 1
