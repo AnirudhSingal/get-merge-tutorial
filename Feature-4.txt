@@ -1,3 +1,4 @@
 Added a new feature by developer 2.
 
 Added a new feature by developer 3.
+Added another new feature by developer 3. 
